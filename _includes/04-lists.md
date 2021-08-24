@@ -1,6 +1,5 @@
 
- india
- karnataka
- tamil nadu
- kerala
- 
+- india
+- karnataka
+- tamil nadu
+- kerala
