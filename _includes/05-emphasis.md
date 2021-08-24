@@ -1,4 +1,0 @@
-
-**Canarys automations
-_bangalore 
-
