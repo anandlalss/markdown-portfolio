@@ -1,7 +1,0 @@
-- asd
-- qwe
-- zxc
-- ert
-- fgh
-- vbn
-- njk
